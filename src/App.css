@@ -1,0 +1,76 @@
+.wel{
+  margin-left: 45%;
+}
+.nav{
+  list-style: none;
+  background-color: bisque;
+  padding-left: 25rem;
+}
+.nav li{
+  text-decoration: none;
+  display: inline-block;
+  padding: 4rem;
+  font-size: 2rem;
+}
+.nav li Link{
+  text-decoration: none;
+} 
+.signup{
+  background-color: aquamarine;
+  margin-top: -2rem;
+  height: 20rem;
+}
+.reg{
+  margin-left: 45rem;
+  padding-top: 2rem;
+}
+.inputBox{
+  display: block;
+  margin: 25px;
+  margin-left:40rem ;
+  padding:7px ;
+  width: 300px;
+  border: 5px;
+}
+button{
+  margin-left: 47rem;
+  height: 2rem;
+  width: 5rem;
+  background-color: rgb(40, 97, 220);
+}
+.log{
+  margin-left: 45rem;
+  padding-top: 2rem;
+}
+.loginpage{
+  background-color: aquamarine;
+  margin-top: -2rem;
+  height: 20rem;
+}
+@media screen and (max-width: 748px){
+  .wel{
+    margin-left: 20%;
+  }
+  .nav{
+    padding-left: 1rem;
+  }
+  .nav li{
+    padding: 1rem;
+    font-size: 1rem;
+  }
+  .reg{
+    margin-left: 6rem;
+    padding-top: 2rem;
+  }
+  .inputBox{
+    margin-left:5rem ;
+    width: 200px;
+  }
+  button{
+    margin-left: 9rem;
+  }
+  .log{
+    margin-left: 6rem;
+  }
+  
+}
